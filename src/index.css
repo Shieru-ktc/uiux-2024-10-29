@@ -1,0 +1,10 @@
+h1, h2 {
+    border-bottom: 1px solid #ccc;
+}
+
+h1::before, h2::before {
+    content: "#";
+    color: #ccc;
+    margin-right: 10px;
+    font-size: 0.8em;
+}
