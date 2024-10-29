@@ -38,7 +38,7 @@ export default function PromotionPage() {
       <Card sx={{ flex: 1 }}>
         <CardContent>
           <Typography gutterBottom variant="h5" component="div">
-            自動販売機裏のポスター
+            ポスターの掲示
           </Typography>
           <Typography variant="body2" sx={{ color: "text.secondary" }}>
             ポスターとして掲示することで、学生にアプリの存在を知らせることができます。
